@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Temp
+title: What being a data scientist means to me
 ---
-This is a temporary post.
+
