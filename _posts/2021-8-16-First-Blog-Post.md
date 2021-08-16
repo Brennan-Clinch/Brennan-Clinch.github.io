@@ -1,5 +1,5 @@
 ---
 layout: post
-title: You're up and running!
+title: Temp
 ---
 This is a temporary post.
