@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Information about me
+permalink: /about/Brennan-Clinch
 ---
 
 Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am Brennan Clinch. I am currently in graduate school at North Carolina State University pursuing a Master's Degree in Statistics.
 
 ### Contact me
 
