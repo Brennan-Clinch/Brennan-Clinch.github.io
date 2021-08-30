@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Information about me
-permalink: /about/Brennan-Clinch
+permalink: /about/
 ---
 
 Some information about you!
 
 ### More Information
 
-I am Brennan Clinch. I am currently in graduate school at North Carolina State University pursuing a Master's Degree in Statistics.
+I am Brennan Clinch. I am currently in graduate school at North Carolina State University pursuing a Master's Degree in Statistics. My passion for pursuing a degree and career in data started from my Dad being an actuary at State Farm Insurance, and after being in high school and doing really well in all my math classes along with my lab science classes as well as liking the two subjects I wanted to pursue a degree combining math and science, so I then decided to pursue a Bachelor's degree in Statistics from Illinois State University, which gave me a good introduction to statistics and inference along with regression models. I then decided that I wanted to further my education in Statistics in order to become a Statistician/Data Scientist one day, so I am here at North Carolina State pursuing my Master's. I have 2 month's experience in the banking and finance industry in data analytics from internships, and I also have 2 year's of experience programming in Python and R. I am also learning SAS,SQL, and other data visualization tools along with data science packages in Python and R. I plan to post my projects here on github.
 
 ### Contact me
 
