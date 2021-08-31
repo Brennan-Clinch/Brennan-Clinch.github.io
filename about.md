@@ -21,5 +21,5 @@ Some of my other interests besides statistics include playing video games, along
 
 [bclincher98@gmail.com](mailto:bclincher98@gmail.com)
 
-![picture of me](Brennan-Clinch.github.io/images/avatar.jpg)
+[picture of me] ("Brennan-Clinch.github.io/images/avatar.jpg")
  
