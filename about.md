@@ -21,5 +21,5 @@ Some of my other interests besides statistics include playing video games, along
 
 [bclincher98@gmail.com](mailto:bclincher98@gmail.com)
 
-  ![Picture of me]("C:/Users/JCCLI/Downloads/profile.jpg") 
+knitr::include_graphics("C:/Users/JCCLI/Downloads/dplyr.png")
  
