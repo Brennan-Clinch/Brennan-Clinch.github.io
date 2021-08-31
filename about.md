@@ -5,10 +5,15 @@ permalink: /about/
 ---
 ### General Information
 Brennan Clinch
+
 Current Academic Career: Master of Statistics-North Carolina State University
+
 Estimated Graduation: December 2022
+
 Undergraduate Degree: Bachelor of Science in Mathematics with Minor in Economics from Illinois State University
+
 Hometown: Bloomington, IL
+
 Programming Skills: Python, R, SAS, SQL
 
 ### More Information about me
