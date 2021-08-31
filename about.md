@@ -21,5 +21,5 @@ Some of my other interests besides statistics include playing video games, along
 
 [bclincher98@gmail.com](mailto:bclincher98@gmail.com)
 
-![picture](C:\Users\JCCLI\Downloads\profile.png) 
+![picture](C:\Users\JCCLI\Downloads\Photos\profile.png) 
  
