@@ -50,4 +50,4 @@ python which is the most in demand language.
 plot(mtcars)
 ```
 
-![](../images/unnamed-chunk-3-1.png)<!-- -->
+![](images/unnamed-chunk-3-1.png) 
