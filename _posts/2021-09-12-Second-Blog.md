@@ -49,5 +49,4 @@ python which is the most in demand language.
 ``` r
 plot(mtcars)
 ```
-
 ![](images/unnamed-chunk-3-1.png) 
