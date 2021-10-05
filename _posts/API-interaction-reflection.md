@@ -1,5 +1,7 @@
-Interacting with API’s reflection 
-================
+---
+layout: post
+title: API interaction
+---
 Brennan Clinch
 10/4/2021
 
