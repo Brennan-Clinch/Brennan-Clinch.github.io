@@ -1,15 +1,8 @@
-Interacting with API’s reflection
+Interacting with API’s reflection 
 ================
 Brennan Clinch
 10/4/2021
 
-``` r
-rmarkdown::render("../API-interaction-reflection.Rmd",
-                  output_format = "github_document",
-                  output_dir = "../_posts/",
-                  output_options=list(html_preview= FALSE, keep_html= FALSE)
- )
-```
 
 I have completed a project on working with API’s to query data that you
 want. The link to the project is
