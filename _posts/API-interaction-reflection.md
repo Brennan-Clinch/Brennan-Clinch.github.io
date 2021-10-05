@@ -9,7 +9,7 @@ want. The link to the project is
 [here](https://brennan-clinch.github.io/Project_1/) and the link to the
 repository is [here](https://github.com/Brennan-Clinch/Project_1).
 
-\# The Project
+\## The Project
 
 For this project, I created a vingette that gives us information on ways
 we can interact with API’s through the use of functions we create that
@@ -23,7 +23,7 @@ in Canada, which is the country north of the United States, that Spring
 of 2021 was when COVID-19 reached it’s highest amount of cases
 (Specifically in April).
 
-\# My Reflections
+\## My Reflections
 
 Overall, most of the project went smoothly with the data analysis and
 the creation of some of the API functions. However, the setup and some
