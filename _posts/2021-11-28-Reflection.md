@@ -5,7 +5,7 @@ Brennan Clinch
 
 I have recently finished up a course at NC State University (ST 558: Data Science for Statisticians) and would like to reflect on some things.
 
--What (if anything) has changed about what you think a data scientist is and what they do
+-What (if anything) has changed about what you think a data scientist is and what they do?
 
 After taking this course, I feel like I've gotten to know a bit more about the field of data science along with getting a better idea as to what a data scientist might do
 A few months ago, I made a post on what my views are of a data scientist are and what they do and how it differs from say a Statistician. After taking this course, I have learned 
@@ -17,7 +17,7 @@ requires a lot more advanced techniques and skills than that of an old school St
 more advanced and is just the modern job replacing most Statisticians here since I find there are very few Statistician jobs posted online and millions of Data Scientist jobs 
 posted online.
 
--what your current thoughts are in terms of using R for data science - do you think you'll continue to use R going forward?  Why or why not?
+-What your current thoughts are in terms of using R for data science - do you think you'll continue to use R going forward?  Why or why not?
 
 Overall, I feel that R is a really great and easy tool to use for data science. It is an easy open source programming language to learn and use and has a lot of good packages that 
 can be used for data science. I have had the most programming experience in R (2 years) since almost all my statistics classes I have taken during my undergraduate career as well
@@ -27,9 +27,8 @@ been very time consuming. And Python is a really great language for working with
 #1 platform for data science today. So I feel that I will continue doing data science projects in R while also doing more using Python since I have decent understanding and 
 experience with the language from a programming course I took using it during my undergraduate career. 
 
--what things are you going to do differently in practice now that you've had this course?
+-What things are you going to do differently in practice now that you've had this course?
 
 Based on things I have done using this course, I have learned a lot in how to use Shiny to create web apps that allow us to interact with our data analyses as well as automating 
 reports. So going forward, I would like to create more Shiny web apps of my analyses and projects that I choose to do as well as using automation with future projects since it 
-makes things a lot easier computation wise and time wise. The one other thing that I will use more in practice now is R Markdown reports since they allow me to explain my results 
-and code to other people more effectively in a nice format.
+makes things a lot easier computation wise and time wise. The one other thing that I will use more in practice now is R Markdown reports since they allow me to explain my results and code to other people more effectively in a nice format.
