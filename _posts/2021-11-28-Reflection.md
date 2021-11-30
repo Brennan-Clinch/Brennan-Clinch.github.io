@@ -1,4 +1,8 @@
-# My Reflection
+# My end of course reflection
+
+Brennan Clinch
+11/29/2021
+
 I have recently finished up a course at NC State University (ST 558: Data Science for Statisticians) and would like to reflect on some things.
 
 -What (if anything) has changed about what you think a data scientist is and what they do
@@ -24,3 +28,8 @@ been very time consuming. And Python is a really great language for working with
 experience with the language from a programming course I took using it during my undergraduate career. 
 
 -what things are you going to do differently in practice now that you've had this course?
+
+Based on things I have done using this course, I have learned a lot in how to use Shiny to create web apps that allow us to interact with our data analyses as well as automating 
+reports. So going forward, I would like to create more Shiny web apps of my analyses and projects that I choose to do as well as using automation with future projects since it 
+makes things a lot easier computation wise and time wise. The one other thing that I will use more in practice now is R Markdown reports since they allow me to explain my results 
+and code to other people more effectively in a nice format.
